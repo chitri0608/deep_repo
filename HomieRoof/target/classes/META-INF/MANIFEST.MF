@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: deepa
+Build-Jdk: 13.0.2
+Implementation-Title: HomieRoof
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.homieroof
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/HomieRoof
+Created-By: Maven Integration for Eclipse
+
